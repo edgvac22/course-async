@@ -1,0 +1,19 @@
+{
+  "name": "course-async",
+  "version": "0.0.1",
+  "description": "Async course, javascript in Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgvac22/course-async.git"
+  },
+  "author": "Edgardo Vaca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgvac22/course-async/issues"
+  },
+  "homepage": "https://github.com/edgvac22/course-async#readme"
+}
