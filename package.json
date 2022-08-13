@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/edgvac22/course-async/issues"
   },
-  "homepage": "https://github.com/edgvac22/course-async#readme"
+  "homepage": "https://github.com/edgvac22/course-async#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
