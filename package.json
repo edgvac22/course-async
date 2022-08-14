@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/edgvac22/course-async#readme",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
